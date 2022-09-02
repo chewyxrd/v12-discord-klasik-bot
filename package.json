@@ -1,0 +1,14 @@
+{
+  "name": "chewy-v12-klasik-bot",
+  "version": "1.0.0",
+  "description": "Chewy tarafından kodlanmış Klasik bot.",
+  "main": "chewy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chewy"
+  ],
+  "author": "Chewy",
+  "license": "MIT"
+}
